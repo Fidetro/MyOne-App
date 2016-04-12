@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>wanna be</string>
+		<key>singer</key>
+		<string>杜梦</string>
+		<key>poster</key>
+		<string>https://img1.doubanio.com/view/event_poster/plarge/public/4830ebd49fb0238.jpg</string>
+		<key>fileName</key>
+		<string>01 曲目 1.mp3</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>安非他命</string>
+		<key>singer</key>
+		<string>杜梦</string>
+		<key>poster</key>
+		<string>http://ww3.sinaimg.cn/mw1024/68e20e7bgw1exdiws3kwij20hs0hsq48.jpg</string>
+		<key>fileName</key>
+		<string>02 曲目 2.mp3</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>存在</string>
+		<key>singer</key>
+		<string>杜梦</string>
+		<key>poster</key>
+		<string>http://ww3.sinaimg.cn/mw1024/68e20e7bjw1eq4zhdec28j20dc0hswfw.jpg</string>
+		<key>fileName</key>
+		<string>03 曲目 3.mp3</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>I remember</string>
+		<key>singer</key>
+		<string>杜梦</string>
+		<key>poster</key>
+		<string>https://img3.doubanio.com/view/photo/photo/public/p2165241774.jpg</string>
+		<key>fileName</key>
+		<string>04 曲目 4.mp3</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>這樣</string>
+		<key>singer</key>
+		<string>杜梦</string>
+		<key>poster</key>
+		<string>http://ww1.sinaimg.cn/cmw218/68e20e7bjw1evnzas8n5kj20dc0hs75p.jpg</string>
+		<key>fileName</key>
+		<string>05 曲目 5.mp3</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ocean&apos;s Breath</string>
+		<key>singer</key>
+		<string>杜梦</string>
+		<key>poster</key>
+		<string>https://img3.doubanio.com/view/photo/photo/public/p2179962183.jpg</string>
+		<key>fileName</key>
+		<string>06 曲目 6.mp3</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>簡單</string>
+		<key>singer</key>
+		<string>杜梦</string>
+		<key>poster</key>
+		<string>http://ww2.sinaimg.cn/mw1024/68e20e7bgw1f0d3syooocj20ku0kuq6c.jpg</string>
+		<key>fileName</key>
+		<string>07 曲目 7.mp3</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Monologue</string>
+		<key>singer</key>
+		<string>杜梦</string>
+		<key>poster</key>
+		<string>http://ww3.sinaimg.cn/mw1024/68e20e7bgw1exmhx043wxj20dc0hsgnp.jpg</string>
+		<key>fileName</key>
+		<string>08 曲目 8.mp3</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>夜空中最暗的星</string>
+		<key>singer</key>
+		<string>杜梦</string>
+		<key>poster</key>
+		<string>http://ww2.sinaimg.cn/mw1024/68e20e7bjw1eo7s29zimwj20hs0hsmz6.jpg</string>
+		<key>fileName</key>
+		<string>09 曲目 9.mp3</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>有進無退</string>
+		<key>singer</key>
+		<string>杜梦</string>
+		<key>poster</key>
+		<string>https://img3.doubanio.com/view/site/large/public/eb515c238f8e0b1.jpg</string>
+		<key>fileName</key>
+		<string>10 曲目 10.mp3</string>
+	</dict>
+</array>
+</plist>

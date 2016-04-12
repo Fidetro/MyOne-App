@@ -1,0 +1,39 @@
+//
+//  DefinePrefixHeader.pch
+//  working
+//
+//  Created by ios-28 on 16/3/8.
+//  Copyright © 2016年 kun. All rights reserved.
+//
+
+#ifndef DefinePrefixHeader_pch
+#define DefinePrefixHeader_pch
+/**
+ *  $(PRODUCT_NAME)/DefinePrefixHeader.pch
+ *$(PRODUCT_NAME)可以自动获取工程名
+ */
+#define GetViewWidth(view)    view.frame.size.width
+#define GetViewHeight(view)   view.frame.size.height
+#define GetViewX(view)        view.frame.origin.x
+#define GetViewY(view)        view.frame.origin.y
+#define originX origin.x
+#define originY origin.y
+#define sizeWidth size.width
+#define sizeHeight size.height
+#define boundsX bounds.origin.x
+#define boundsY bounds.origin.y
+#define boundsWidth bounds.size.width
+#define boundsHeight bounds.size.height
+#define frameX frame.origin.x
+#define frameY frame.origin.y
+#define frameWidth frame.size.width
+#define frameHeight frame.size.height
+#define ViewX self.view.frame.origin.x
+#define ViewY self.view.frame.origin.y
+#define ViewWidth self.view.frame.size.width
+#define ViewHeight self.view.frame.size.height
+#define tabbarHeight (49)
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* DefinePrefixHeader_pch */
